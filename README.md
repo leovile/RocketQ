@@ -1,6 +1,6 @@
 ## 💻 Project
 
-Rocket Q is a webapp designed by Rocketseat in the 6th NLW week that allows us to create chat rooms where others can make anonymous questions.
+Rocket Q is a webapp designed by Rocketseat in the 6th NLW that allows us to create chat rooms where others can make anonymous questions.
 
 ![Resultado Final](./.github/preview.png)
 
